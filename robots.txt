@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://wihdleat.github.io/NMF/NMF.txt
